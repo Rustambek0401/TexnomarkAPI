@@ -1,0 +1,8 @@
+TokenAuthentication =>(admin)=> 'da4f59c6a03a645cb259542d8310be94225024b6'
+JWTAuthentication => (rustam) =>
+
+
+{
+    "refresh": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcyMjgzNDExNSwiaWF0IjoxNzIyNzQ3NzE1LCJqdGkiOiJlNDdlNzFlZjQ2ZDM0YzU1OWUzOTVjNjBjNWJmZGE3OSIsInVzZXJfaWQiOjJ9.pBZiPX-IRsVe4DXu0OEB2cajs36YPiVjpsqwjqH3XsU",
+    "access": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzIyODAxNzE1LCJpYXQiOjE3MjI3NDc3MTUsImp0aSI6Ijc4MjhiNDE2NDFhYjQxYmJhZjk0NzY0MzVkMGQ5MDUzIiwidXNlcl9pZCI6Mn0.zVu4diW-O8nSasbWFu4oRZQ3rqMai_7XfJVRK8NOPYw"
+}
